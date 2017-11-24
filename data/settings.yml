@@ -1,0 +1,14 @@
+site:
+  title: codeless
+  title_separator: /
+  description: 'Hiboux Cailloux - La decouverte de la nature par la marche'
+  i18n: fr
+  geo:
+    placename: 'Saint Gervais, Haute Savoie'
+    position: 45.8871051;6.7131219
+    region: FR-74
+  url: 'https://github.com/xlanex6'
+  author: Alex DUVAL
+
+social:
+  twitter: 'xlanex6'
